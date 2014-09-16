@@ -25,4 +25,20 @@ Goals:
 10. A Web Broswer customized and made just for each person using it. 
 
 
+For this project going to need some help and for all that would like to help out please submit your ideals and suggestions.
+
+Please add them here:
+
+https://github.com/kbdavis07/WebBrowser/issues/new
+
+
+For now till I get some code made for this, please create your own branch and push your code there if you like to help out with the coding.
+
+Then later on I will put together all of the parts of the code that are best into one main branch.
+
+Would like to develop this using Windows Presentation Foundation / WinRT and not WinForms.
+
+
+
+
 
